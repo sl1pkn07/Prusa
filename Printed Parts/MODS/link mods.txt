@@ -1,0 +1,15 @@
+https://www.printables.com/model/691975-mk4-style-knob-for-prusa-mini-or-mini
+https://www.printables.com/model/509284-mk4-style-lcd-cover-for-original-prusa-minimini
+https://www.printables.com/model/733424-mk4-xl-knob-for-mk2s-mk25s-mk3s
+https://www.printables.com/model/509261-mk4-style-lcd-cover-for-original-prusa-mk3mk3smk3s
+https://www.printables.com/model/49367-prusa-mini-side-spool-holder
+https://www.printables.com/model/135834-prusa-i3-mk2s-mk25-y-axis-upgrade
+https://www.thingiverse.com/thing:1846654 // Prusa i3 MK2 - Y-Frame Assembly Helper - Square tool to keep 10mm rods parallel
+https://www.printables.com/model/1683-prusa-mk3-mk3s-lcd-cable-clips
+https://www.printables.com/model/248400-mk3s-x-end-motor-with-endstop-restored (based on)
+https://www.printables.com/model/264713-fix-filament-sensor-lever-i3mk3s-modification-fix
+https://www.printables.com/model/114553-prusa-mini-internal-filament-sensor-ifs
+https://www.printables.com/model/416331-mk25s-adjustable-y-belt
+https://www.printables.com/model/34000-prusa-i3-mk2-psu-cover-with-rear-exit-nema-15-sock (based on)
+https://www.printables.com/model/135-original-prusa-mk24-extruder
+https://www.thingiverse.com/thing:3522168 // Original Prusa MK2.4 Extruder MMU1 Adaptor

@@ -1,0 +1,11 @@
+https://github.com/4DimK/Prusa-MINI-bear-Z10-mod
+https://files.printables.com/media/prints/74566/stls/832306_54e66099-f02c-4c88-9541-2d6b8a84cbfb/z_y-distance-rig_fixed.stl
+https://www.printables.com/model/93429-prusa-mini-bear-spool-holder-support-bobine
+https://www.printables.com/model/55930-prusa-mini-bear-full-upgrade-buddy-board-box
+https://files.printables.com/media/prints/68537/stls/749356_596e4cc7-8e60-4dc5-a5f0-d82d2d2a0460/prusa-research-bear-endcaps-right-front.stl
+https://files.printables.com/media/prints/68537/stls/749356_596e4cc7-8e60-4dc5-a5f0-d82d2d2a0460/prusa-research-bear-endcaps-right-back.stl
+https://files.printables.com/media/prints/68537/stls/749356_596e4cc7-8e60-4dc5-a5f0-d82d2d2a0460/prusa-research-bear-endcaps-left-front.stl
+https://files.printables.com/media/prints/68537/stls/749356_596e4cc7-8e60-4dc5-a5f0-d82d2d2a0460/prusa-research-bear-endcaps-left-back.stl
+https://files.printables.com/media/prints/264920/stls/2361502_ad54fbea-8e3e-484c-a5c7-276b6e27f4c6/foot.stl
+https://files.printables.com/media/prints/37939/stls/373891_cbca3b88-4e8a-4cbd-9522-689322f7ff0e/displayholder.stl
+https://github.com/3DPGVA/Split-Z-Axis-for-MINI
